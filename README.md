@@ -15,6 +15,8 @@ create new github account - see private
 7. edit test.html file || git add test.html && commit
 8. git push
 9. git checkout -b store - create new branch
+10. create add store.html to store branch
+11. git push --set-upstream origin store || push to store remote repo
 
 
 
