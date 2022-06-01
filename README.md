@@ -21,3 +21,5 @@ create new github account - see private
 commands
     git push origin --delete remoteBranchName   - delete remote branch
     git branch -d localBranchName               - delete local branch
+    git rm --cached file1.txt                   - delete remote file
+    git push origin branch_name                 - push changes to remote branch
