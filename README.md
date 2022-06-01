@@ -14,4 +14,10 @@ create new github account - see private
 6. git commit -m 'first commit' - add files to local repo
 7. edit test.html file || git add test.html && commit
 8. git push
-9.
+9. git checkout -b store - create new branch
+
+
+
+commands
+    git push origin --delete remoteBranchName   - delete remote branch
+    git branch -d localBranchName               - delete local branch
